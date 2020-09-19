@@ -30,7 +30,9 @@ $ ./startClient.sh
 ``` 
 
 ## How to use
+```sh
    --b <message>        : to broadcast message to all connected clients    
    --p <name> <message> : to send a private message to a specific client     
    --q                  : to leave the chat    
    --h                  : to display help   
+```
