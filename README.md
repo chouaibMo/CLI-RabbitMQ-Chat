@@ -1,5 +1,10 @@
 <h1 align=center> CLI chat application using RabbitMQ </h1>
 
+<p align=center>
+  <img src="https://image.flaticon.com/icons/png/512/226/226777.png" width="150" height="150"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/rabbitmq.svg" width="130" height="130"/>
+</p>
+
 ## Description
 a minimal command-line chat application written in JAVA and using RabbitMQ.
 
